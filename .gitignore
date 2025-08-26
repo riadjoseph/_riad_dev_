@@ -2,3 +2,7 @@
 .env
 /dist
 /CLAUDE.md
+node_modules
+.next
+nextjs-migration/.next
+nextjs-migration/node_modules
